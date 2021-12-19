@@ -26,7 +26,7 @@ Optional:
   --name=buana-db \
   -e MYSQL_DATABASE=buanadb \
   -e MYSQL_USER=buanaapp \
-  -e MYSQL_PASSWORD=PNSJkxXvVNDAhePMuExTBuRR \
+  -e MYSQL_PASSWORD=rahasia \
   -e MYSQL_ROOT_PASSWORD=rahasia \
   -e TZ=Asia/Jakarta \
   -p 6603:3306 \
